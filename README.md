@@ -1,8 +1,8 @@
 # SmartHome
 IoT app to manage smart devices in your home.
 
-Built with:
--Angular and PrimeNG UI components
--Python and FastAPI web framework
+Built with: <br/>
+-Angular and PrimeNG UI components <br/>
+-Python and FastAPI web framework <br/>
 
 --WORK IN PROGRESS--
